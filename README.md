@@ -4,4 +4,6 @@ The apparent moment rate function (AMRF) obtained by the multi-taper spectrum an
 
 The empirical Green function for AMRF in amrf_wl_NKT4 is NKT4 and the empirical Green function for AMRF in amrf_wl_NKT5 is NKT5.
 
+iris_download.py is a python script used to download waveform data from IRIS.
+
 https://zenodo.org/badge/latestdoi/627018511
